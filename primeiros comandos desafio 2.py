@@ -4,3 +4,5 @@
 
 print ("Olá, mundo!")
 print (5*7)
+print (5+7)
+print (8/2)
