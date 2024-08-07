@@ -6,7 +6,7 @@ print (f"A soma entre os valores {valor1} e {valor2} é igual a {valor1 + valor2
 
 #ou
 
-n1 = int(input ("Digite um valor:"))
+n1 = int(input ("Digite um valor:")) #int seria um tipo primitivo necessário assim como: float, bool, str
 n2 = int(input ("Digite outro valor:"))
 s = n1 + n2
 print ("A soma entre os valores {} e {} é igual a {}".format (n1,n2,s))
